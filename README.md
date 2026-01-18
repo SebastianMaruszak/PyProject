@@ -112,7 +112,6 @@ ws.onmessage = (msg) => console.log(msg.data);
 ---
 
 ### Testy obejmują:
-- operacje CRUD
 - połączenie WebSocket
 
 ---
